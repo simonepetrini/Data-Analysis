@@ -1,0 +1,13 @@
+Scrivi in un file di tipo testo, tutte le situazioni di una tua giornata tipo dove hai a che fare con i dati. (ES.: uso di social, navigatore, chat… ecc ecc.) Descrivi per ogni situazione: 
+● che tipo di dati usi o comunichi? 
+● a cosa ti servono o a cosa possono servire a chi li raccoglie? 
+● sono dati sensibili? 
+● puoi evitare di comunicarli? 
+● Hai fornito il consenso al trattamento dei dati?
+
+
+
+Durante la mia giornata media sono molteplici le situazioni in cui interagisco con i dati.
+Da quando mi sveglio fino a quando  arrivo in ufficio utilizzo diverse applicazioni che producono e inviano dati (principalmente Whatsapp, WeWard, Spotify) che utilizzo per controllare messaggistica, ascoltare musica e contare i passi effettuati.
+Per questo tipo di dati, cosi come per molti altri dati che fornisco nel corso della giornata con l'utilizzo di altre applicazioni (come le app di banking, i social o le piattaforme di gaming o streaming) ho fornito il consenso al momento del download delle app e sono cosciente dell'utilizzo che le aziende ne fanno, anche se per la maggior parte non si tratta di dati sensibili.
+In ambito lavorativo, invece, gestisco quotidianamente dati forniti dai vari clienti business e privati e per lo più si tratta di dati sensibili e privati, per cui sia io che i miei colleghi abbiamo firmato accordi di non divulgazione.
